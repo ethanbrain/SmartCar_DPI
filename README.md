@@ -1,8 +1,8 @@
-🚗 Self-Driving Car Simulation
+# 🚗 Self-Driving Car Simulation
 
 This project simulates a self-driving car using advanced design patterns, including State, Strategy, Observer, and Singleton. It provides a structured approach to autonomous vehicle behavior simulation, making it an excellent reference for software engineers interested in object-oriented programming (OOP) and design patterns.
 
-🌟 Features
+## 🌟 Features
 
 State Pattern: Manages different states of the car (e.g., driving, stopping, parking).
 
@@ -15,7 +15,7 @@ Singleton Pattern: Ensures a single instance of critical components like the tra
 Realistic Simulation: Simulates road conditions, traffic rules, and dynamic interactions.
 
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 Programming Language: Java / Python (Specify the main language used)
 
@@ -24,7 +24,7 @@ Design Patterns: State, Strategy, Observer, Singleton
 Frameworks/Libraries: (Mention any additional dependencies if applicable)
 
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 1️⃣ Clone the Repository
 
@@ -45,7 +45,7 @@ Provide details on how to execute the project. Example:
 python main.py  # For Python  
 java -jar SelfDrivingCar.jar  # For Java
 
-📂 Project Structure
+## 📂 Project Structure
 
 📦 Self-Driving-Car-Simulation  
  ┣ 📂 src  
@@ -60,7 +60,7 @@ java -jar SelfDrivingCar.jar  # For Java
 
 (Modify this structure based on your actual project files.)
 
-🏆 Contribution
+## 🏆 Contribution
 
 Contributions are welcome! If you’d like to improve the simulation, follow these steps:
 
@@ -80,11 +80,11 @@ Contributions are welcome! If you’d like to improve the simulation, follow the
 
 
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License. See LICENSE for details.
 
-📧 Contact
+## 📧 Contact
 
 For any questions or discussions, feel free to reach out:
 
