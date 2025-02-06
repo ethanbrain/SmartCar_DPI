@@ -33,7 +33,7 @@ cd Self-Driving-Car-Simulation
 
 2️⃣ Install Dependencies
 
-If your project requires dependencies, specify them here. For example:
+This project does not require any external dependencies. It runs as a standalone application without the need for additional libraries or frameworks. Simply clone the repository and execute the code as described in the Getting Started section.
 
 pip install -r requirements.txt  # For Python  
 mvn install  # For Java (if using Maven)
